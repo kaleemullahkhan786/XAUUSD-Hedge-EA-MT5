@@ -144,5 +144,5 @@ With `Initial_LotSize = 0.2` and `Multipliar = 2`:
 
 ## Developer
 
-**Asad Sheikh**
+**Kaleemullah Khan**
 - Email: kaleemullahkhan.contact@gmail.com
